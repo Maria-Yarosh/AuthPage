@@ -1,0 +1,11 @@
+.errorInput {
+    border: 2px solid red;
+    padding: 8 px;
+    width: 200px;
+}
+
+.normalInput {
+    border: 1px solid #ccc;
+    padding: 8 px;
+    width: 200px;
+}
